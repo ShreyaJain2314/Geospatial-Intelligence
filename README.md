@@ -1,1 +1,1 @@
-# Location-Intelligence
+# Geospatial-Intelligence
